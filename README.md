@@ -66,6 +66,3 @@ python3 data_flow_pipeline.py \
 - Ensure that the service account has sufficient permissions to access GCS and BigQuery.
 - Verify that the `orders.csv` file follows the expected schema before running the pipeline.
 - Check logs in Cloud Dataflow to troubleshoot any errors.
-
-## License
-This project is licensed under the MIT License.
